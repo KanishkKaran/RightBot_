@@ -1,7 +1,11 @@
 # RightBot_
 
-This project stemmed out from my master's project. The idea behind my project was to look at the types of profile behind these campaigns understanding the profiles behind some of these online hate campaigns.
-Therefore, I dedcided to make a bot that will make a list of people who are retweeting types of hate hashtags. 
+This project stemmed out from my master's project. The idea behind the project is to make a list of the far-right profiles that are behind these campaigns. Maybe later reporting it to Twitter. 
+
+Most likely:
+> Twitter won't do anything!
+
+But it's cool to have a dataset of people who're retweeting certain types of hate hashtags. 
 
 
 Some of 
