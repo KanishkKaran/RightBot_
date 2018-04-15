@@ -7,9 +7,6 @@ Most likely:
 
 But it's cool to have a dataset of people who're retweeting certain types of hate hashtags. 
 
-
-Some of 
-
 If you want to check my lists, you can check them on [Kaggle] (https://www.kaggle.com/kanishkkaran)
 
 
