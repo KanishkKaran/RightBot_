@@ -16,7 +16,7 @@ If you want to check my lists, you can check them on [Kaggle] (https://www.kaggl
 - [ ] Differentiate users who actually post hate content v. the people who revolt against it. 
 
 
-### For the project I am using rhiver's followbot; You can find it here: (https://github.com/rhiever/TwitterFollowBot)
+### For the project I am using rhiever's Twitter Followbot; You can find it here: (https://github.com/rhiever/TwitterFollowBot)
 
 
 
